@@ -1,4 +1,4 @@
-# try!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="zh-TW">
 <head>
     <meta charset="UTF-8">
@@ -90,7 +90,6 @@
                     </div>
                 </div>
             </div>
-
             <!-- Style Filter -->
             <div class="mb-6">
                 <h4 class="font-medium text-gray-700 mb-3">風格</h4>
